@@ -50,7 +50,8 @@
 
 - [**vibecoding交流群**](https://t.me/glue_coding)
 - [**我的频道**](https://t.me/tradecat_ai_channel)
-- [**小登论道**](./documents/小登论道.md)
+- [**小登论道：我的学习经验**](./documents/小登论道.md)
+- [**编程书籍推荐**](./documents/编程书籍推荐.md)
 - [**skill生成器，把任何资料转agent的skill（技能）**](https://github.com/yusufkaraaslan/Skill_Seekers)
 - [**google表格提示词数据库，我系统性收集和制作的几百个适用于各个场景的用户提示词和系统提示词在线表格**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
 - [**系统提示词收集仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
