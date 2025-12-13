@@ -98,7 +98,9 @@
 - [**kimik2**](https://www.kimi.com/)，国产，还行，干脏活写简单任务用，之前2r一个key，一周1024次调用挺爽
 - [**GLM**](https://bigmodel.cn/)，国产，听说很强，听说和 Claude Sonnet 4 差不多？
 - [**Qwen**](https://qwenlm.github.io/qwen-code-docs/zh/cli/)，国产阿里的，cli有免费额度
-
+- [**提示词库，直接复制粘贴即可使用**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
+- [**其他编程工具的系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+- [**Skills制作器（ ai 你下好之后让 ai 用这个仓库按照你的需求生成 Skills 即可）**](https://github.com/yusufkaraaslan/Skill_Seekers)
 
 ---
 
@@ -108,7 +110,7 @@
 - [**我的频道**](https://t.me/tradecat_ai_channel)
 - [**小登论道：我的学习经验**](./documents/小登论道.md)
 - [**编程书籍推荐**](./documents/编程书籍推荐.md)
-- [**skill生成器，把任何资料转agent的skill（技能）**](https://github.com/yusufkaraaslan/Skill_Seekers)
+- [**Skills生成器，把任何资料转agent的Skills（技能）**](https://github.com/yusufkaraaslan/Skill_Seekers)
 - [**google表格提示词数据库，我系统性收集和制作的几百个适用于各个场景的用户提示词和系统提示词在线表格**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
 - [**系统提示词收集仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [**prompts-library 提示词库xlsx与md文件夹互转工具与使用说明，有几百个适用于各个领域的提示词与元提示词**](./prompts-library/)
