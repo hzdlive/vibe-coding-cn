@@ -558,6 +558,8 @@ gantt
 
 **币安uid支付**: `572155580`
 
+---
+
 **Made with ❤️ and a lot of ☕ by [tukuaiai](https://github.com/tukuaiai),[Nicolas Zullo](https://x.com/NicolasZu)and [123olp](https://x.com/123olp)**
 
 [⬆ 回到顶部](#vibe-coding-至尊超级终极无敌指南-V114514)
