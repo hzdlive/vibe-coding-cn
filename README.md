@@ -102,7 +102,11 @@
 - [**其他编程工具的系统提示词学习库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [**Skills制作器（ ai 你下好之后让 ai 用这个仓库按照你的需求生成 Skills 即可）**](https://github.com/yusufkaraaslan/Skill_Seekers)
 - [**元提示词，生成提示词的提示词**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=1770874220#gid=1770874220)
+- [**通用项目架构模板；这个就是框架，复制给ai一键搭好目录结构**](./documents/通用项目架构模板.md) - 提供了多种项目类型的标准目录结构、核心设计原则、最佳实践建议及技术选型参考。
 - [**augment提示词优化器**](https://app.augmentcode.com/)，这个提示词优化是真的好用，强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈强烈推荐
+- [**思维导图神器，让ai生成项目架构的.mmd图复制到这个里面就能可视化查看啦**](https://www.mermaidchart.com/)
+- [**notebooklm，资料ai解读和技术文档放这里可以，听音频看思维导图和 Nano Banana 生成的图片什么的**](https://notebooklm.google.com/)
+- [**zread，ai读仓库神器，复制github仓库链接进去就能分析，减少用轮子的工作量了**](https://zread.ai/)
 
 ---
 
