@@ -185,6 +185,11 @@ PS：下面的经验并非通用，具体实践中要分场景，辩证的看
 ├── AGENTS.md                    # AI 代理相关的文档或配置。
 ├── CLAUDE.md                    # AI 助手的核心行为准则或配置。
 │
+├── backups/                     # 项目备份脚本。
+│   ├── gz/                      # 备份文件存放目录。
+│   ├── 一键备份.sh                # 一键执行备份的 Shell 脚本。
+│   └── 快速备份.py                # 实际执行逻辑的 Python 脚本。
+│
 ├── documents/                   # 存放各类说明文档、经验总结和配置详细说明。
 │   ├── auggie-mcp配置文档.md      # Augment 上下文引擎配置文档。
 │   ├── 代码组织.md                # 代码组织与结构相关文档。
@@ -192,11 +197,13 @@ PS：下面的经验并非通用，具体实践中要分场景，辩证的看
 │
 ├── libs/                        # 通用库代码，用于项目内部模块化。
 │   ├── common/                  # 通用功能模块。
-│   │   ├── __init__.py          # Python 包初始化文件。
 │   │   ├── models/              # 模型定义。
 │   │   │   └── __init__.py
 │   │   └── utils/               # 工具函数。
-│   │       └── __init__.py
+│   │       ├── AGENTS.md        # AI 代理相关的文档或配置（utils 内部）。
+│   │       ├── backups/         # 内部备份工具。
+│   │       ├── my-nvim/         # 用户的 Neovim 配置。
+│   │       └── XHS-image-to-PDF-conversion/ # 小红书图片转PDF工具。
 │   ├── database/                # 数据库相关模块。
 │   │   └── .gitkeep             # 占位文件，确保目录被 Git 跟踪。
 │   └── external/                # 外部集成模块。
@@ -225,15 +232,10 @@ PS：下面的经验并非通用，具体实践中要分场景，辩证的看
 │
 ├── skills/                      # 集中存放所有类型的 skills 技能。
 │       ├── claude-skills        # 生成 SKILL 的元 SKILL
-│       │   ├── SKILL.md 
+│       │   ├── SKILL.md
 │       │   ├── ... (其他)
 │       ├── ... (其他 skill)
-│
-└── backups/                     # 项目备份脚本。
-    ├── 一键备份.sh                # 一键执行备份的 Shell 脚本。
-    └── 快速备份.py                # 实际执行逻辑的 Python 脚本。
 ```
-
 ---
 
 ## 🖼️ 概览与演示
