@@ -42,7 +42,7 @@
 
 **Vibe Coding** 是一个与 AI 结对编程的终极工作流程，旨在帮助开发者丝滑地将想法变为现实。本指南详细介绍了从项目构思、技术选型、实施规划到具体开发、调试和扩展的全过程，强调以**规划驱动**和**模块化**为核心，避免让 AI 失控导致项目混乱。
 
-> **核心理念**: *规划就是一切。* 绝不要让 AI 自主规划，否则你的代码库会变成一团无法管理的乱麻。
+> **核心理念**: *规划就是一切。* 谨慎让 AI 自主规划，否则你的代码库会变成一团无法管理的乱麻。
 
 ---
 
@@ -50,6 +50,7 @@
 
 - [**vibecoding交流群**](https://t.me/glue_coding)
 - [**我的频道**](https://t.me/tradecat_ai_channel)
+- [**skill生成器，把任何资料转agent的skill（技能）**](https://github.com/yusufkaraaslan/Skill_Seekers)
 - [**google表格提示词数据库，我系统性收集和制作的几百个适用于各个场景的用户提示词和系统提示词在线表格**](https://docs.google.com/spreadsheets/d/1ngoQOhJqdguwNAilCl1joNwTje7FWWN9WiI2bo5VhpU/edit?gid=2093180351#gid=2093180351&range=A1)
 - [**系统提示词收集仓库**](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [**prompts-library 提示词库xlsx与md文件夹互转工具与使用说明，有几百个适用于各个领域的提示词与元提示词**](./prompts-library/)
@@ -171,7 +172,7 @@
 
 ## ⚙️ 架构与工作流程
 
-核心资产映射（排除 `GITHUB/`）：
+核心资产映射：
 ```
 prompts/
   coding_prompts/        # 需求澄清、计划、执行链的核心提示词
